@@ -1,9 +1,9 @@
     
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <declare-styleable name="PieChart">
+    <declare-styleable name="PieChart2">
         <attr name="viewBackgroundColor" format="integer" />
-        <attr name="strokeColor" format="integer" />
+        <attr name="strokeColor2" format="integer" />
         <attr name="strokeSize" format="float" />
         <attr name="strokeStyle" format="integer">
             <enum name="FILL" value="0" />
